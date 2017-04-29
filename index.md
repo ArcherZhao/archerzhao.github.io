@@ -1,1 +1,1 @@
-## [A站前端模块可配置化总结（上](/2016-11-17-acfun-fe-configurable-modularity-planning)
+## [A站前端模块可配置化总结（上)](/2016/11/17/acfun-fe-configurable-modularity-planning)
